@@ -1,0 +1,18 @@
+{
+    "errorMessages": {
+      "firstNameFieldError": "First name required",
+      "lastNameFieldError": "Last name required",
+      "emailFieldError": "Email is required",
+      "passwordFieldError": "Password is required"
+    },
+    "dataValidationFail": {
+      "error": "Input data validation failed"
+    },
+    "dashboard": {
+      "fullName": "Valeriia  Test",
+      "role": "role: user"
+    },
+    "login": {
+      "signInText": "Sign in to Delek Homes"
+    } 
+  }
